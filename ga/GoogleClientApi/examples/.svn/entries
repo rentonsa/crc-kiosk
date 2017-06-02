@@ -1,0 +1,196 @@
+10
+
+dir
+0
+https://svn.ecdf.ed.ac.uk/repo/is/digitallibrary/crc-kiosk/ga/GoogleClientApi/examples
+https://svn.ecdf.ed.ac.uk/repo/is/digitallibrary
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e8c8756d-69f4-4630-9228-b54a72833577
+
+adexchangebuyer
+dir
+
+
+
+add
+
+adsense
+dir
+
+
+
+add
+
+adsensehost
+dir
+
+
+
+add
+
+affiliateNetwork
+dir
+
+
+
+add
+
+analytics
+dir
+
+
+
+add
+
+apps
+dir
+
+
+
+add
+
+batch.php
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+books
+dir
+
+
+
+add
+
+calendar
+dir
+
+
+
+add
+
+contacts
+dir
+
+
+
+add
+
+customSearch
+dir
+
+
+
+add
+
+latitude
+dir
+
+
+
+add
+
+moments
+dir
+
+
+
+add
+
+pagespeed
+dir
+
+
+
+add
+
+plus
+dir
+
+
+
+add
+
+prediction
+dir
+
+
+
+add
+
+shopping
+dir
+
+
+
+add
+
+siteVerification
+dir
+
+
+
+add
+
+tasks
+dir
+
+
+
+add
+
+translate
+dir
+
+
+
+add
+
+urlshortener
+dir
+
+
+
+add
+
+userinfo
+dir
+
+
+
+add
+
+webfonts
+dir
+
+
+
+add
+
